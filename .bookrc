@@ -1,0 +1,22 @@
+{
+  "name": "She",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/she/master/assets",
+  "book_id": 999,
+  "book_url": "https://bubblin.io/book/she-by-h-rider-haggard"
+}
